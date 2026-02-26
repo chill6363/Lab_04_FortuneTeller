@@ -31,7 +31,7 @@ public class FortuneTellerFrame extends JFrame
         createControlPanel();
 
         setTitle("Fortune Teller");
-        setSize(600, 650);
+        setSize(600, 720);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setVisible(true);
     }
